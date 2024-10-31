@@ -1,0 +1,22 @@
+body {
+	text-align: center; 
+	background-color:skyblue;
+	background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQcnjzGHTDBF6o7jxz7-IIQGxowP4hDzp7s6E3fTmIaVecvCEwel3JbzjH9mwF624-PfyiT0r6FExE6ubw_0-2E5A9JY79gRKhf9Mf7GPuetJesEMO_fbcPEitDWTcNJzqcLQG-Q/s1600/flower-clouds-spongebob-squarepants-nickelodeon-nick-sbsp.jpg);
+	background-size: cover;
+}
+
+img {
+
+	width:200px;
+	border-radius: 50px;
+	border: 5px solid gold;
+	allign-content:center;
+	justify-content: center;
+			
+		}
+
+h1 {
+		text-align: center;
+		color:#F4BA00;
+	}
+
